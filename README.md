@@ -1,4 +1,10 @@
-### Hi there 👋
+<H1>Yovany Hernandez Garcia 👋<H1>
+<H2>Conocimientos en:<H2>
+  <H2>Objetivos:<H2>
+    
+   ;)    ;)    ;)    ;) 
+  
+![galaxia](https://user-images.githubusercontent.com/61251212/109442081-c512df80-79fc-11eb-92fb-0d33769e971d.jpg)
 
 <!--
 **Yovany1998/Yovany1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
